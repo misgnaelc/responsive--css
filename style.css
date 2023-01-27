@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+}
+/* layout */
+header{
+    background-color: #2e354f;
+    color: #fff;
+    padding: 4spx 0;
+}
+section{
+    padding: 45px 0;
+}
+.container{
+    width: 90%;
+    border: 2px solid magenta;
+    max-width: 650px;
+    margin: 0 auto;
+}
+.section-two{
+    background: #2e354f;
+    color: #fff;
+}
